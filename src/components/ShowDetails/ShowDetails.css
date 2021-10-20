@@ -1,0 +1,9 @@
+.details-image {
+  width: 400px;
+  height: 450px;
+  object-fit: cover;
+}
+.card-footer {
+  background: none !important;
+  border: none !important;
+}

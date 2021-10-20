@@ -1,0 +1,18 @@
+.img-service {
+  object-fit: cover;
+  min-width: 350px;
+  height: 350px;
+}
+.card-footer {
+  text-align: center;
+}
+
+.details-btn {
+  background: rgb(3, 88, 216);
+  padding: 8px 35px;
+  color: #fff;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  font-size: 14px;
+}

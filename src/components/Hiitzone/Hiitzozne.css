@@ -1,0 +1,12 @@
+.main-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 80px;
+}
+.main-img img {
+  max-height: 300px;
+}
+.card {
+  max-width: 100% !important;
+}
